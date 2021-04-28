@@ -1,6 +1,8 @@
-# If you want to get this running on your computer
-You will need your own Giphy API key and then you will have to plug that API key into the APIkey.js file found in the src directory.  
+# If you want to get this running on your machine . . .
+To experience the app fully, you will need your own Giphy API key and then you will have to plug that API key into the APIkey.js file found in the src directory.  
 Its very easy to get a free Giphy API key, just go to: https://developers.giphy.com/docs/api/#quick-start-guide and click "create an app" - then you will need to make an account, before being able to generate an API key.
+However the app should function without an API key also - there just won't be any GIFs :(
+
 
 
 # Getting Started with Create React App
